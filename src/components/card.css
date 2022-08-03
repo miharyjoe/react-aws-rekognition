@@ -1,10 +1,10 @@
-.profilePhoto{
+profilePhoto{
     width: 50vw;
     height: 100vh;
     object-fit: contain;
 }
 
-.profile{
+profile{
     margin-top: 16px;
     display: flex;
 }
@@ -12,6 +12,11 @@
 .cardlist{
     width: 50vw;
 }
-container{
-    height: 200px;
+.container{
+    border-radius: 1rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    height: 500px;
+    overflow-y: scroll;
 }
