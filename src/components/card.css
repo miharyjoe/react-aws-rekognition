@@ -1,0 +1,17 @@
+.profilePhoto{
+    width: 50vw;
+    height: 100vh;
+    object-fit: contain;
+}
+
+.profile{
+    margin-top: 16px;
+    display: flex;
+}
+
+.cardlist{
+    width: 50vw;
+}
+container{
+    height: 200px;
+}
